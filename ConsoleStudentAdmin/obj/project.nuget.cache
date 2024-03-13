@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJjRCqZcv7pGOmBXt4sI3L9G81C3E0vhBWWbsH5XLJiOgxwT+eHMozquWFgQJhXHGGgWG/QqgTUikNHgD9Pkvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max Carrión\\Documents\\Proyectitos\\WinAppStudentAdmin_Carrion\\WinAppStudentAdmin\\ConsoleStudentAdmin\\ConsoleStudentAdmin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max Carrión\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
+    "C:\\Users\\Max Carrión\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.5\\sqlitepclraw.bundle_e_sqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\Max Carrión\\.nuget\\packages\\sqlitepclraw.core\\2.1.5\\sqlitepclraw.core.2.1.5.nupkg.sha512",
+    "C:\\Users\\Max Carrión\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.5\\sqlitepclraw.lib.e_sqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\Max Carrión\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.5\\sqlitepclraw.provider.e_sqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\Max Carrión\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
