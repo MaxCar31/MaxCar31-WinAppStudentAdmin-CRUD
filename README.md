@@ -22,12 +22,11 @@ Para usar la aplicación, sigue estos pasos:
    git clone https://github.com/MaxCar31/WinAppStudentAdmin-CRUD.git
 
 2.-Abra la solución WinAppStudentAdmin.sln en Visual Studio.
-3.-Crea base de datos con los campos de Name, Age, Grade y configure la conexion en el aplicativo
-4.-Compile y ejecute la aplicación.
+3.-Compile y ejecute la aplicación.
  
 ## Capturas de Pantalla 📸
 
 <p align="center">
-  <img src="https://github.com/MaxCar31/MaxCar31-WinAppStudentAdmin-CRUD/assets/141116497/d0fd12a5-93d2-4cec-a6cb-f487330e03a2" width="400"/>
-  <img src="https://github.com/MaxCar31/MaxCar31-WinAppStudentAdmin-CRUD/assets/141116497/b04e9c37-f816-4456-890d-83097bffc7d6" width="400"/>
+  <img src="https://github.com/MaxCar31/MaxCar31-WinAppStudentAdmin-CRUD/assets/141116497/9a929729-0b2c-4034-8e8f-14ebda28ea20" width="900"/>
+  <img src="https://github.com/MaxCar31/MaxCar31-WinAppStudentAdmin-CRUD/assets/141116497/28d95c03-eb5c-474d-87a6-f834af252e8c" width="900"/>
 </p>
