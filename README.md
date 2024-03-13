@@ -21,8 +21,7 @@ Para usar la aplicación, sigue estos pasos:
    ```bash
    git clone https://github.com/MaxCar31/WinAppStudentAdmin-CRUD.git
 
-2.-Abra la solución WinAppStudentAdmin.sln en Visual Studio.
-3.-Compile y ejecute la aplicación.
+2.-Abra la solución WinAppStudentAdmin.sln en Visual Studio, compile y ejecute la aplicación.
  
 ## Capturas de Pantalla 📸
 
